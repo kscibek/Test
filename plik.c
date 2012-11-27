@@ -1,15 +1,4 @@
 
-Środowisko programisty
-Ścieżka do strony
-
-    Moja strona domowa
-    / ► Moje kursy
-    / ► NK80766098
-    / ► Temat 7
-    / ► Git
-
-Git
-
 Przeprowadzić następujące operacje,
 samemu:
 
@@ -27,3 +16,4 @@ samemu:
     ściągnąć nową wersję w pierwszej kopii repozytorium (pull)
 
 We współpracy z innymi (zespoły 2-3 osobowe),
+:) :) :)
